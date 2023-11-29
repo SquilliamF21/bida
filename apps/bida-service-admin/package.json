@@ -1,5 +1,5 @@
 {
-  "name": "@bida-service/admin",
+  "name": "@bida-service-1/admin",
   "private": true,
   "dependencies": {
     "@apollo/client": "3.6.9",
